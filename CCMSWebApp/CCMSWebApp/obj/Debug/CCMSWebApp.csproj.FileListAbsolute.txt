@@ -1,0 +1,204 @@
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\CCMSWebApp.dll.config
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\CCMSWebApp.dll
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\CCMSWebApp.pdb
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\Antlr3.Runtime.dll
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\AspNet.ScriptManager.jQuery.dll
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\EntityFramework.dll
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\EntityFramework.SqlServer.dll
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.dll
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.dll
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.Google.dll
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\Newtonsoft.Json.dll
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\Owin.dll
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\System.Web.Optimization.dll
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\System.Web.Providers.dll
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\WebGrease.dll
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\System.Web.Optimization.xml
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\Antlr3.Runtime.pdb
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\Newtonsoft.Json.xml
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\EntityFramework.xml
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\EntityFramework.SqlServer.xml
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.xml
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.xml
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.Google.xml
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\obj\Debug\CCMSWebApp.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\obj\Debug\CCMSWebApp.dll
+D:\Visual Studio 2013\CCMSWebApp\CCMSWebApp\obj\Debug\CCMSWebApp.pdb
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\CCMSWebApp.dll.config
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\CCMSWebApp.dll
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\CCMSWebApp.pdb
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Antlr3.Runtime.dll
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\AspNet.ScriptManager.bootstrap.dll
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\AspNet.ScriptManager.jQuery.dll
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\EntityFramework.dll
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\EntityFramework.SqlServer.dll
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.dll
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.dll
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.Google.dll
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.ScriptManager.WebForms.dll
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Web.Infrastructure.dll
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Newtonsoft.Json.dll
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Owin.dll
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\System.Web.Optimization.dll
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\System.Web.Providers.dll
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\WebGrease.dll
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\System.Web.Optimization.xml
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Antlr3.Runtime.pdb
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Newtonsoft.Json.xml
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\EntityFramework.xml
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\EntityFramework.SqlServer.xml
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.xml
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.xml
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.Google.xml
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\obj\Debug\CCMSWebApp.csprojResolveAssemblyReference.cache
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\obj\Debug\CCMSWebApp.dll
+F:\BASIS\Naowaz\CCMSWebApp\CCMSWebApp\CCMSWebApp\obj\Debug\CCMSWebApp.pdb
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\CCMSWebApp.dll.config
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\CCMSWebApp.dll
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\CCMSWebApp.pdb
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Antlr3.Runtime.dll
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\AspNet.ScriptManager.jQuery.dll
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\EntityFramework.dll
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\EntityFramework.SqlServer.dll
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.dll
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.dll
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.Google.dll
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Web.Infrastructure.dll
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Newtonsoft.Json.dll
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Owin.dll
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\System.Web.Optimization.dll
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\System.Web.Providers.dll
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\WebGrease.dll
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\System.Web.Optimization.xml
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Antlr3.Runtime.pdb
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Newtonsoft.Json.xml
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\EntityFramework.xml
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\EntityFramework.SqlServer.xml
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.xml
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.xml
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.Google.xml
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\obj\Debug\CCMSWebApp.dll
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\obj\Debug\CCMSWebApp.pdb
+D:\Visual Studio 2013\New Folder\CCMSWebApp\CCMSWebApp\CCMSWebApp\obj\Debug\CCMSWebApp.csprojResolveAssemblyReference.cache
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\CCMSWebApp.dll.config
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\CCMSWebApp.dll
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\CCMSWebApp.pdb
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Antlr3.Runtime.dll
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\EntityFramework.dll
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.dll
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.dll
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Newtonsoft.Json.dll
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Owin.dll
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\System.Web.Optimization.dll
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\System.Web.Providers.dll
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\WebGrease.dll
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\System.Web.Optimization.xml
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Newtonsoft.Json.xml
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\EntityFramework.xml
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.xml
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.xml
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\obj\Debug\CCMSWebApp.csprojResolveAssemblyReference.cache
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\obj\Debug\CCMSWebApp.dll
+C:\Users\M.A.SALAM\Desktop\DDIP\CCMSWebApp (1)\CCMSWebApp\CCMSWebApp\CCMSWebApp\obj\Debug\CCMSWebApp.pdb
